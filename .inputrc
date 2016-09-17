@@ -1,0 +1,12 @@
+# Tab Autocompletion improvements
+
+# Make Tab autocomplete regardless of filename case
+set completion-ignore-case on
+
+# List all matches in case multiple possible completetions are possible
+set show-all-if-ambiguous on
+
+# Do not autocomplete hidden files unless the pattern explicitly beings with a dot
+set match-hidden-files off
+
+ TAB: menu-complete

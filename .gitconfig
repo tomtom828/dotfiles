@@ -1,0 +1,10 @@
+[user]
+  name = ntuvera
+  email = ntuvera@gmail.com
+[color]
+  ui = always
+[core]
+  editor = vim
+	excludesfile = /home/nate/.gitignore
+[commit]
+  template = ~/.gitmessage.txt
